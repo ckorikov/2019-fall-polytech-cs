@@ -4,7 +4,7 @@
 
 ## О чем курс
 
-![syllabus](syllabus/syllabus.png)
+![syllabus](syllabus/about.png)
 
 ## Слайды (WIP)
 
@@ -74,6 +74,10 @@
 ## Практика
 
 Задачи курса находятся [тут](tasks.md).
+
+## Что уже прошли?
+
+![syllabus](syllabus/syllabus.png)
 
 ## Известные алгоритмы и структуры данных в курсе
 
