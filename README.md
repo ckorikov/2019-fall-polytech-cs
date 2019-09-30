@@ -110,29 +110,28 @@
 - Быстрая сортировка [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Градиентный спуск
 - Граф 
-- Дека
-- Динамический массив
+- Дек [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Интерполяционный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Код Хаффмана
 - Код Хэмминга
 - Кольцевая очередь
 - Красно-черное дерево
-- Куча (aka пирамида)
-- Линейный конгруэнтный метод 
+- Куча (aka пирамида) [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom), [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
+- Линейный конгруэнтный метод [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
 - Линейный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
-- Массив
+- Массив [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Метод t-SNE
 - Метод Монте-Карло
 - Метод Ньютона
 - Обход дерева в глубину (DFS)
 - Обход дерева в ширину (BFS)
-- Очередь
-- Очередь с приоритетом
+- Очередь [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
+- Очередь с приоритетом [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Пирамидальная сортировка (сортировка кучей) [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Поиск прыжками [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Префиксное дерево
 - Решето Эратосфена [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
-- Связный список
+- Связный список [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Симплекс-метод
 - Система непересекающихся множеств
 - Сортировка Шелла [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
