@@ -82,6 +82,21 @@ class MaxStack:
   def max(self):
     pass
 ```
+7. **(5 баллов)** Вы пришли на работу в новую компанию, где бывший сотрудник не дописал функцию `remove_kth_from_linked_list`. К сожалению, документации нет. Допишите реализацию функции, добавьте описание в docstring и напишите дополнительные тесты.
+```
+class Node:
+  def __init__(self, val, next=None):
+    self.val = val
+    self.next = next
+
+def remove_kth_from_linked_list(head, k):
+    pass
+
+# Test: [1, 2, 3, 4, 5] -> [1, 2, 4, 5]
+test_this = Node(1, Node(2, Node(3, Node(4, Node(5)))))
+should_be = Node(1, Node(2, Node(4, Node(5))))
+assert test_this == should_be, 'Test failed'
+```
 
 ## 5. АТД: словарь и множество
 
