@@ -75,12 +75,14 @@
    - Словарь и множество в Python.
    - *Дополнительно: фильтр Блума.*
 
-9. АТД: дерево ☠️
+9. [АТД: дерево ☠️](https://korikov.cc/?d=2019-informatika-09-atd-derevo)
 
-   - Бинарные деревья поиска.
-   - Обход дерева: в глубину и в ширину.
-   - Балансировка деревьев. Самобалансирующиеся деревья: красно-черное дерево.
-   - *Дополнительно: АВЛ-дерево, splay-дерево*.
+   - АТД дерево
+   - Реализация деревьев
+   - Бинарное дерево
+   - Бинарное дерево поиска
+   - Сбалансированные деревья: АВЛ-дерево, RB-дерево, 2-3-дерево, B-дерево
+   - *Дополнительно: splay-дерево, k-d дерево, scapegoat-дерево*.
 
 10. АТД: граф
 
@@ -109,15 +111,15 @@
 
 ## Известные алгоритмы и структуры данных в курсе
 
-- 2-3 дерево
+- 2-3 дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Kadane's algorithm
 - Q-learning
 - Radix-сортировка
-- Scapegoat-дерево
+- Scapegoat-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - SVD-разложение
-- Splay-дерево
-- k-d дерево
-- АВЛ-дерево
+- Splay-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
+- k-d дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
+- АВЛ-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Алгоритм kNN
 - Алгоритм A*
 - Алгоритм PCA
@@ -144,10 +146,10 @@
 - Граф 
 - Дек [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Интерполяционный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
-- Код Хаффмана
+- Код Хаффмана [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Код Хэмминга
 - Кольцевая очередь
-- Красно-черное дерево
+- Красно-черное дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Куча (aka пирамида) [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom), [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Линейный конгруэнтный метод [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
 - Линейный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
@@ -155,13 +157,13 @@
 - Метод t-SNE
 - Метод Монте-Карло
 - Метод Ньютона
-- Обход дерева в глубину (DFS)
-- Обход дерева в ширину (BFS)
+- Обход дерева в глубину (DFS) [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
+- Обход дерева в ширину (BFS) [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Очередь [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Очередь с приоритетом [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Пирамидальная сортировка (сортировка кучей) [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Поиск прыжками [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
-- Префиксное дерево
+- Префиксное дерево 
 - Решето Эратосфена [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
 - Связный список [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Симплекс-метод
