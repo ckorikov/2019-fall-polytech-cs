@@ -84,7 +84,15 @@
    - Сбалансированные деревья: АВЛ-дерево, RB-дерево, 2-3-дерево, B-дерево
    - *Дополнительно: splay-дерево, k-d дерево, scapegoat-дерево*.
 
-10. АТД: граф
+10. [Графы: карта злачных мест Петербурга. 18](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)
+
+   - АТД граф
+   - Обход графа
+   - Топологическая сортировка
+   - Кратчайшие пути
+   - Минимальное остовое дерево
+   - Задача о максимальном потоке
+   - Задача коммивояжера
 
 11. Компьютерная арифметика
 
@@ -128,12 +136,12 @@
 - Алгоритм k-mean
 - Алгоритм Белмана-Форда
 - Алгоритм Бойера-Мура
-- Алгоритм Дейкстры
+- Алгоритм Дейкстры [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Алгоритм Евклида
 - Алгоритм Карацубы
 - Алгоритм Кнута-Морриса-Пратта
-- Алгоритм Краскала
-- Алгоритм Прима
+- Алгоритм Крускала [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
+- Алгоритм Прима [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Алгоритм Рабина-Карпа
 - Алгоритм Флойда
 - Алгоритм Шора
@@ -143,7 +151,7 @@
 - Бинарный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Быстрая сортировка [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Градиентный спуск
-- Граф 
+- Граф [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Дек [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Интерполяционный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Код Хаффмана [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
@@ -176,9 +184,9 @@
 - Сортировка слиянием [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Суффиксное дерево
 - Схема Горнера
-- Топологическая сортировка
+- Топологическая сортировка [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Фибоначчиев поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Фильтр Блума
 - Фильтр Калмана
-- Хэш-таблица
+- Хэш-таблица [см. [тема 8](https://korikov.cc/?d=2019-informatika-08-atd-slovar-i-mnojestvo)]
 - Экспоненциальный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
