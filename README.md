@@ -84,7 +84,7 @@
    - Сбалансированные деревья: АВЛ-дерево, RB-дерево, 2-3-дерево, B-дерево
    - *Дополнительно: splay-дерево, k-d дерево, scapegoat-дерево*.
 
-10. [Графы: карта злачных мест Петербурга. 18](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)
+10. [Графы: карта злачных мест Петербурга. 18](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18+)
 
    - АТД граф
    - Обход графа
