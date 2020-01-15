@@ -51,7 +51,7 @@
 - Компиляторы и интерпретаторы.
 
 6. [Бонус: ООП, функциональное программирование, TDD и чистый код](https://korikov.cc/?d=2019-informatika-06-bonus-oop-funkcionalnoe-programmirovanie-tdd-i-chistyi-kod)
-- Объектно-ориентированное программирование, SOLID, паттерны.
+- Объектно-ориентированное программирование, S.O.L.I.D., паттерны.
 - Чистые функции, высшие функции.
 - Разработка через тестирование (TDD).
 - Рекомендации.
@@ -114,30 +114,20 @@
 ## Известные алгоритмы и структуры данных в курсе
 
 - 2-3 дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
-- Radix-сортировка
 - Scapegoat-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Splay-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - k-d дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - АВЛ-дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
-- Алгоритм Белмана-Форда
-- Алгоритм Бойера-Мура
 - Алгоритм Дейкстры [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
-- Алгоритм Евклида
-- Алгоритм Карацубы
-- Алгоритм Кнута-Морриса-Пратта
 - Алгоритм Крускала [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Алгоритм Прима [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Алгоритм Рабина-Карпа [см. [тема 8](https://korikov.cc/?d=2019-informatika-08-atd-slovar-i-mnojestvo)]
-- Алгоритм Флойда
-- Алгоритм Штрассена
 - Бинарный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Быстрая сортировка [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Граф [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Дек [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Интерполяционный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 - Код Хаффмана [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
-- Код Хэмминга
-- Кольцевая очередь
 - Красно-черное дерево [см. [тема 9](https://korikov.cc/?d=2019-informatika-09-atd-derevo)]
 - Куча (aka пирамида) [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom), [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Линейный конгруэнтный метод [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
@@ -149,7 +139,6 @@
 - Очередь с приоритетом [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Пирамидальная сортировка (сортировка кучей) [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Поиск прыжками [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
-- Префиксное дерево 
 - Решето Эратосфена [см. [тема 1](https://korikov.cc/?d=2019-informatika-01-vvodnaya-lekciya)]
 - Связный список [см. [тема 4](https://korikov.cc/?d=2019-informatika-04-atd-s-lineinym-poryadkom)]
 - Сортировка Шелла [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
@@ -158,31 +147,43 @@
 - Сортировка кучей (пирамидой) [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Сортировка пузырьком [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
 - Сортировка слиянием [см. [тема 3](https://korikov.cc/?d=2019-informatika-03-proektirovanie-algoritmov)]
-- Суффиксное дерево
 - Топологическая сортировка [см. [тема 10](https://korikov.cc/?d=2019-informatika-10-grafy-karta-zlachnyh-mest-peterburga-18)]
 - Фибоначчиев поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
-- Фильтр Блума
 - Хэш-таблица [см. [тема 8](https://korikov.cc/?d=2019-informatika-08-atd-slovar-i-mnojestvo)]
 - Экспоненциальный поиск [см. [тема 2](https://korikov.cc/?d=2019-informatika-02-algoritmy-i-struktury-dannyh-nachalo)]
 
 #### Что не успели рассмотреть
+
 - Kadane's algorithm
 - Q-learning
-- Фильтр Калмана
+- Radix-сортировка
 - SVD-разложение
-- Симплекс-метод
-- Система непересекающихся множеств
-- Схема Горнера
+- Алгоритм A*
+- Алгоритм k-mean
+- Алгоритм kNN
+- Алгоритм PageRank
+- Алгоритм PCA
+- Алгоритм QR
+- Алгоритм Белмана-Форда
+- Алгоритм Бойера-Мура
+- Алгоритм Евклида
+- Алгоритм Карацубы
+- Алгоритм Кнута-Морриса-Пратта
+- Алгоритм обратного распространения ошибки
+- Алгоритм Флойда
+- Алгоритм численного дифференцирования
+- Алгоритм Шора
+- Алгоритм Штрассена
+- Градиентный спуск
+- Код Хэмминга
+- Кольцевая очередь
 - Метод t-SNE
 - Метод Монте-Карло
 - Метод Ньютона
-- Градиентный спуск
-- Алгоритм kNN
-- Алгоритм A*
-- Алгоритм PCA
-- Алгоритм PageRank
-- Алгоритм QR
-- Алгоритм k-mean
-- Алгоритм Шора
-- Алгоритм обратного распространения ошибки
-- Алгоритм численного дифференцирования
+- Префиксное дерево 
+- Симплекс-метод
+- Система непересекающихся множеств
+- Суффиксное дерево
+- Схема Горнера
+- Фильтр Блума
+- Фильтр Калмана
